@@ -8,7 +8,7 @@ Reader can read metadata and extract frames (into either .cur or .ico as encoded
 Writer can create .ani from .cur, .ico, or other file types like .png as supported by Iconolatry. .cur files may be created as needed and will be stored in the same folder as the .ani file. 
 
 ## Starting point
-Clone this repo or download package from Pypi with `pip install ani-file`:
+Clone this repo or download package from Pypi with `pip install ani_file`:
 
 Open ANI file in similar manner to builtin.open():
 ```
